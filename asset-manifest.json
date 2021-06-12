@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ajsj9706/ajsj9706.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ajsj9706/ajsj9706.github.io/static/js/main.1e3121e7.chunk.js",
+    "main.js.map": "/ajsj9706/ajsj9706.github.io/static/js/main.1e3121e7.chunk.js.map",
+    "runtime-main.js": "/ajsj9706/ajsj9706.github.io/static/js/runtime-main.291e9e3e.js",
+    "runtime-main.js.map": "/ajsj9706/ajsj9706.github.io/static/js/runtime-main.291e9e3e.js.map",
+    "static/js/2.1d8e7f56.chunk.js": "/ajsj9706/ajsj9706.github.io/static/js/2.1d8e7f56.chunk.js",
+    "static/js/2.1d8e7f56.chunk.js.map": "/ajsj9706/ajsj9706.github.io/static/js/2.1d8e7f56.chunk.js.map",
+    "static/js/3.13d1d3f9.chunk.js": "/ajsj9706/ajsj9706.github.io/static/js/3.13d1d3f9.chunk.js",
+    "static/js/3.13d1d3f9.chunk.js.map": "/ajsj9706/ajsj9706.github.io/static/js/3.13d1d3f9.chunk.js.map",
+    "index.html": "/ajsj9706/ajsj9706.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ajsj9706/ajsj9706.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1d8e7f56.chunk.js.LICENSE.txt": "/ajsj9706/ajsj9706.github.io/static/js/2.1d8e7f56.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ajsj9706/ajsj9706.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.291e9e3e.js",
+    "static/js/2.1d8e7f56.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1e3121e7.chunk.js"
+  ]
+}
